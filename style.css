@@ -29,6 +29,10 @@
 .turma {
     background-image: linear-gradient(#080d53,#3293e2);
     color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .turma-imagem{
